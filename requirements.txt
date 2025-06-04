@@ -1,6 +1,5 @@
 streamlit
 pandas
-sounddevice==0.4.6
 SpeechRecognition
 vosk
 pyttsx3

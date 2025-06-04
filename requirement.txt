@@ -1,0 +1,4 @@
+streamlit
+pandas
+sounddevice
+# Add other dependencies used in auth.py, voice/, core/, utils/ (e.g., speechrecognition, pyttsx3, etc.)

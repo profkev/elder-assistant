@@ -1,0 +1,32 @@
+{
+  "reminders": [
+    {
+      "id": 15,
+      "med_name": "What should I do after breakfast?",
+      "time": "09:00",
+      "recurrence": "none",
+      "note": "ghg",
+      "status": "pending",
+      "timestamp": null
+    },
+    {
+      "id": 16,
+      "med_name": "test",
+      "time": "09:00",
+      "recurrence": "none",
+      "note": "",
+      "status": "pending",
+      "timestamp": null
+    },
+    {
+      "id": 17,
+      "med_name": "test",
+      "time": "09:15",
+      "recurrence": "none",
+      "note": "ty",
+      "status": "pending",
+      "timestamp": null
+    }
+  ],
+  "next_id": 18
+}

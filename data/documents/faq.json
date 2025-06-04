@@ -1,0 +1,107 @@
+{
+  "after breakfast": "Once you've finished your breakfast, it’s important to take your blood pressure medication to help keep your levels stable throughout the day. Ideally, take it with a full glass of water, and try to do this around the same time each morning to maintain a consistent routine. After you’ve taken your medicine, how about we do some light stretching together? This can help improve circulation and ease any stiffness. Alternatively, if you prefer, I can play your favorite morning radio station or podcast to set a pleasant tone for your day. Just let me know what sounds best.",
+  
+  "take medicine": "It’s time to take your medication now. Please remember to drink a full glass of water with it—unless your doctor has given you different instructions—because staying hydrated can help the medicine absorb properly and reduce any potential side effects. After you’ve taken it, if you want me to keep track, just say 'log it for me' and I’ll note the time and medication in your health record so we always have an accurate history. If you experience any unusual symptoms after taking it, please let me know right away.",
+
+  "daily tasks": "Here’s your schedule for today to keep you on track and feeling balanced. In the morning, a gentle walk outside to enjoy some fresh air and light exercise, which is great for heart health and mood. After lunch, some quiet reading time to relax your mind and stimulate your thoughts. And at 7 PM, you’re scheduled to call your daughter. I’ll remind you 15 minutes before so you have enough time to prepare. If anything changes or you want to add or remove tasks, just tell me—I'm here to help you stay flexible and stress-free.",
+
+  "check medication list": "Right now, your active medications include Lisinopril, Atorvastatin, and Metformin. Would you like me to read out the dosages and scheduled times, or focus on today’s medications only? I can also explain possible side effects if you'd like.",
+
+  "missed dose": "If you realize you’ve missed a dose, it’s best to follow your healthcare provider’s specific instructions. Sometimes it’s safe to take it when you remember, other times you should skip it. Would you like me to notify your caregiver or log this in your health journal?",
+
+  "what's the weather": "Today’s weather is mostly sunny, high of 24°C. Light breeze, comfortable for a stroll. Would you like the weekly forecast as well?",
+
+  "call my daughter": "I’m placing a call to your daughter now. If she doesn’t answer, I can leave a message for her or let you decide what to do next.",
+
+  "where is my will": "Your will is saved in the 'Legal Documents' folder on your desktop. I can open it for you now, or help you send a copy to your attorney.",
+
+  "donation reminder": "You usually make a donation to St. Anne’s Church in November. Shall I set a reminder for November 10th or mid-month? I can also help set up automatic donations if you'd like.",
+
+  "how much tax did I pay": "You paid approximately $4,200 in taxes last year. Would you like me to pull up your full tax documents or help you estimate payments for this year?",
+
+  "bank accounts": "You have two accounts: Money Bank (USD 65,000) and Co-op Bank. Would you like to review recent transactions, transfer funds, or check upcoming payments?",
+
+  "send money to daughter": "I recommend using Wise for an affordable transfer to your daughter in Germany. Shall I walk you through the process?",
+
+  "investment summary": "Your portfolio at ABC Investments grew about 7% this year. Would you like a detailed report or a quick asset breakdown?",
+
+  "change settings": "You can adjust font size, voice type, and speech rate in settings. Would you like me to guide you through it?",
+
+  "repeat that": "Sure thing! Here’s what I just said: [Assistant repeats the last message verbatim]. If it wasn’t clear, just let me know.",
+
+  "i need help": "Do you need emergency assistance? I can activate your alert system and notify your caregiver now. Say 'cancel' if not.",
+
+  "credit card information": "You have three active credit cards. I can tell you account numbers, co-holders, or autopay setups. What would you like to know?",
+
+  "bank account details": "You have checking and savings accounts at Money Bank and Co-op Bank. Need customer service details, balances, or interest rates?",
+
+  "legal documents": "Your legal documents like wills and power of attorney are in 'Legal Documents' on your desktop. I can open the folder for you or suggest a nearby safe deposit service.",
+
+  "money transfers": "You can send money to your daughter's German account using Wise. Shall I guide you or prepare the details for you?",
+
+  "investment information": "Your portfolio includes equities, bonds, and crypto. Would you like five-year returns, annual fees, or links to financial news?",
+
+  "tax information": "You’ve paid your taxes for this year. Want a breakdown or reminders for quarterly estimated taxes?",
+
+  "charitable donations": "You donated to XX Church last year. I can tell you how much you can give this year or set a donation reminder for mid-November.",
+
+  "emergency contacts": "Your emergency contacts include your daughter (555-1234) and your caregiver (555-5678). Would you like me to dial them or send a message if needed?",
+
+  "upcoming appointments": "You have a doctor's appointment with Dr. Smith on Thursday at 10:00 AM. Would you like me to set a reminder or prepare your questions list for the visit?",
+
+  "medication refill reminder": "Your Lisinopril supply is running low. Would you like me to order a refill or remind you to call the pharmacy?",
+
+  "health metrics summary": "Your last recorded blood pressure was 128/78 mmHg and your glucose level was 5.6 mmol/L. Would you like a weekly report emailed to you?",
+
+  "calendar events today": "Today’s events: morning walk at 9:00 AM, book reading at 2:00 PM, call your daughter at 7:00 PM. Would you like me to adjust anything?",
+
+  "insurance information": "You are insured with ABC Health Insurance. Your policy number is 123456789. Would you like help checking your coverage or claim status?",
+
+  "drink water reminder": "It’s important to stay hydrated. Would you like me to remind you every 2 hours to drink a glass of water?",
+
+  "step count summary": "Today you’ve walked 3,200 steps so far. Shall we set a goal for 5,000 steps and gently remind you throughout the day?",
+
+  "doctor contact": "Dr. Smith’s office number is 555-9101. Would you like me to call or send a message to schedule an appointment?",
+
+  "last medication log": "You last logged a dose of Metformin at 8:00 AM today. Would you like me to display your full medication log?",
+
+  "help": "Here are some things you can ask me: check medication list, call daughter, upcoming appointments, health summary, send money, weather update, investment details, or emergency help. What would you like to do now?",
+
+  "What credit card accounts do I have?": "You currently have three active credit card accounts: 1) Visa Platinum ending in 1234, 2) MasterCard Gold ending in 5678, and 3) Discover Cashback ending in 9876.",
+  
+  "Who shares the account with me?": "The Visa Platinum card is jointly held with your wife. The MasterCard Gold and Discover Cashback cards are individually held in your name.",
+  
+  "What are the account numbers?": "For security, I can only provide the last four digits: Visa Platinum (1234), MasterCard Gold (5678), Discover Cashback (9876). For full numbers, please check your secure banking app or paper statements.",
+  
+  "Is this credit card autopaid, and if so, what bank accounts is it using?": "Your Visa Platinum card is set to autopay from your Money Bank checking account. Your Discover Cashback card is autopaid from your Co-op Bank savings account. The MasterCard Gold card does not have autopay enabled.",
+  
+  "What bank accounts do I have?": "You have two active bank accounts: a Checking Account at Money Bank and a Savings Account at Co-op Bank.",
+  
+  "Provide addresses and contact info for customer service.": "Money Bank Customer Service: 1-800-555-1234, 123 Main Street, Hometown. Co-op Bank Customer Service: 1-800-555-5678, 456 Elm Street, Uptown.",
+  
+  "Itemize accounts by balance and type.": "1) Money Bank Checking Account: $65,000 balance used for daily expenses. 2) Co-op Bank Savings Account: $25,000 balance used for emergencies.",
+  
+  "What are the interest rates earned by these accounts?": "Money Bank Checking Account earns 0.01% annually, and the Co-op Bank Savings Account earns 1.5% annually.",
+  
+  "Where are my will and powers of attorney documents kept?": "Your will and powers of attorney documents are securely stored in the 'Legal Documents' folder on your desktop computer.",
+  
+  "Provide a link to a local store.": "Nearby storage facility: SafeKeep Storage Center, 789 Secure Drive, Hometown. Their website is https://safekeepstoragecenter.com.",
+  
+  "How to send money to the bank account of my daughter in Germany in a simple and cost-effective way.": "The best way to send money to your daughter's bank account in Germany is by using Wise (https://wise.com) for low fees and good exchange rates.",
+  
+  "List of equities, bonds, cybercurrency held, including balances, five-year returns, and annual fees (for mutual funds or ETFs).": "Your investment portfolio includes: 1) Equities valued at $120,000, 2) Bonds valued at $50,000, 3) Cryptocurrencies valued at $15,000. Over the past five years, your portfolio has delivered a 7% average annual return. Mutual funds carry an average annual fee of 0.5%.",
+  
+  "What are links to good sites that discuss investments?": "For reliable investment news and advice, visit: 1) https://www.morningstar.com, 2) https://www.investopedia.com, and 3) https://www.marketwatch.com.",
+  
+  "How much did I pay in state, local, and federal taxes this year?": "This year, you paid $2,500 in federal taxes, $1,000 in state taxes, and $700 in local taxes — a total of $4,200.",
+  
+  "When are the quarterly dates for estimated taxes?": "Quarterly estimated tax payment due dates are: 1) April 15, 2) June 15, 3) September 15, and 4) January 15 of the following year.",
+  
+  "What are the links to the sites where I can set up payments?": "You can pay your federal taxes at https://www.irs.gov/payments. For state taxes, visit your state’s Department of Revenue website. For local taxes, check your county’s official portal.",
+  
+  "Find all donations made to the XX Church, including dates, amounts, and types of donation.": "You made the following donations to XX Church: 1) $500 on January 15 (General Fund), 2) $250 on May 10 (Special Project), and 3) $750 on November 20 (Annual Fundraiser).",
+  
+  "Amounts given for QCD (qualified charitable donations) from IRAs last year and how much can be given this year.": "Last year, you gave $1,200 in Qualified Charitable Donations (QCDs) from your IRA. For this year, you're eligible to donate up to $100,000 tax-free via QCDs.",
+  
+  "Send a reminder mid-November to make the donation.": "A reminder has been set for November 15th to prompt you to make your annual donation to XX Church."
+}

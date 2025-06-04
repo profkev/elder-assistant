@@ -1,0 +1,49 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Check up",
+      "date": "2025-05-28",
+      "time": "00:12",
+      "status": "upcoming"
+    },
+    {
+      "id": 2,
+      "title": "check medicine list",
+      "date": "2025-05-30",
+      "time": "01:52",
+      "status": "upcoming"
+    },
+    {
+      "id": 3,
+      "title": "check medicine list",
+      "date": "2025-05-28",
+      "time": "01:55",
+      "status": "upcoming"
+    },
+    {
+      "id": 4,
+      "title": "check medicine list",
+      "date": "2025-05-27",
+      "time": "11:09",
+      "status": "upcoming"
+    },
+    {
+      "id": 5,
+      "title": "Visit the Hospital",
+      "date": "2025-05-27",
+      "time": "12:19",
+      "datetime": "2025-05-27 12:19",
+      "status": "upcoming"
+    },
+    {
+      "id": 6,
+      "title": "ytr",
+      "date": "2025-06-02",
+      "time": "20:49",
+      "datetime": "2025-06-02 20:49",
+      "status": "upcoming"
+    }
+  ],
+  "next_id": 7
+}

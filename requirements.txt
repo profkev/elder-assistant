@@ -1,9 +1,8 @@
 streamlit
 pandas
-sounddevice==0.4.6
-SpeechRecognition
+speechrecognition
 vosk
 pyttsx3
 requests
 python-dotenv
-pyaudio
+gunicorn

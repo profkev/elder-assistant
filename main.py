@@ -8,8 +8,8 @@ from auth import login, logout_button
 # === Perform the login check immediately ===
 login()
 
-from voice.tts_engine import speak
-from voice.stt_engine import listen
+# from voice.tts_engine import speak
+# from voice.stt_engine import listen
 from core.document_indexer import search_knowledge_base
 from core.config_manager import load_user_config, update_user_config
 from utils.emergency import trigger_emergency
